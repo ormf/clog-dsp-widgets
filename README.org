@@ -1,4 +1,12 @@
-* clog-dsp-widgets
+* This Repository is deprecated!
+
+  The clog-dsp-widgets repository has been completely integrated into
+  [[https://codeberg.org/ormf/clamps][Clamps]] and is developed there. The archive here is only kept for
+  historical reasons. This archive will not receive further updates or
+  patches. Issues and pull requests will not be looked at here either,
+  please submit your patches and issue tickets on the Clamps
+  repository on Codeberg, or send them directly via good old email
+  patches to the author.* clog-dsp-widgets
 *** Orm Finnendahl
 
 Widgets for DSP related interactive Guis using [[https://github.com/rabbibotton/clog][clog]].
